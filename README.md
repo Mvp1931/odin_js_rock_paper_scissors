@@ -11,3 +11,4 @@ Rock paper scissor game from The Odin Project website.
 -   [x] step 6: Add a function to play round.
 -   [x] step 7: Add a loop to play 5 rounds.
 -   [x] step 8: Add a function to play game.
+-   [x] step 9: Added Stylesheet.
